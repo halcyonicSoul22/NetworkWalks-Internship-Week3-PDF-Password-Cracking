@@ -155,24 +155,22 @@ Through these practical exercises, I gained hands-on exposure to:
 
 # 📂 Repository Contents
 
-```text
 NetworkWalks-Internship-Week3-PDF-Password-Cracking/
 │
 ├── README.md
 │
 ├── JTR/
-│   ├── pdf-1-jtr.png
-│   ├── pdf-2-jtr.png
-│   └── pdf-3-jtr.png
+│   ├── 1.PNG
+│   ├── 2.PNG
+│   └── 3.PNG
 │
 └── NetworkWalks-Tools/
-    ├── pdf-4-hash-calculator.png
-    ├── pdf-5-hash-calculator.png
-    ├── pdf-6-hash-calculator.png
-    ├── pdf-4-password-cracker.png
-    ├── pdf-5-password-cracker.png
-    └── pdf-6-password-cracker.png
-```
+    ├── 4.PNG
+    ├── 5.PNG
+    ├── 6.PNG
+    ├── 4.1.PNG
+    ├── 5.1.PNG
+    └── 6.1.PNG
 
 ---
 
