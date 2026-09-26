@@ -28,7 +28,8 @@ The first assigned PDF was processed and its password was successfully recovered
 
 ### Evidence
 
-[PDF 1 – JTR Password Recovery](1.PNG)
+[PDF 1 – JTR Password Recovery]
+(1.PNG)
 
 ---
 
@@ -38,7 +39,8 @@ The second assigned PDF was also processed using John the Ripper and the passwor
 
 ### Evidence
 
-[PDF 2 – JTR Password Recovery](2.PNG)
+[PDF 2 – JTR Password Recovery]
+(2.PNG)
 
 ---
 
@@ -50,7 +52,8 @@ The password was successfully recovered using John the Ripper.
 
 ### Evidence
 
-[PDF 3 – JTR Password Recovery](3.PNG)
+[PDF 3 – JTR Password Recovery]
+(3.PNG)
 
 ---
 
@@ -70,7 +73,8 @@ The fourth assigned PDF was processed using the NetworkWalks Hash Calculator as 
 
 ### Evidence
 
-[PDF 4 – Hash Calculator](4.PNG)
+[PDF 4 – Hash Calculator]
+(4.PNG)
 
 ---
 
@@ -80,7 +84,8 @@ The fifth assigned PDF was processed using the same workflow.
 
 ### Evidence
 
-[PDF 5 – Hash Calculator](5.PNG)
+[PDF 5 – Hash Calculator]
+(5.PNG)
 
 ---
 
@@ -90,7 +95,8 @@ The sixth assigned PDF was also processed using the NetworkWalks Hash Calculator
 
 ### Evidence
 
-[PDF 6 – Hash Calculator](6.PNG)
+[PDF 6 – Hash Calculator]
+(6.PNG)
 
 ---
 
@@ -102,11 +108,14 @@ All three assigned PDFs were successfully processed and their passwords were rec
 
 ### Evidence
 
-[PDF 4 – Password Cracker](4.1.PNG)
+[PDF 4 – Password Cracker]
+(4.1.PNG)
 
-[PDF 5 – Password Cracker](5.1.PNG)
+[PDF 5 – Password Cracker]
+(5.1.PNG)
 
-[PDF 6 – Password Cracker](6.1.PNG)
+[PDF 6 – Password Cracker]
+(6.1.PNG)
 
 ---
 
